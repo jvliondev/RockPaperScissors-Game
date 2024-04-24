@@ -15,19 +15,20 @@
     height: 200px;
     
 }
-#myInput, #myButton {
+.myButton {
     height: 50px;
-    width: 200px;
+    width: 300px;
     border: 2px;
-    padding: 0;
+    padding: 0 10px;
     font-size: 25px;
     border-radius: 20px;
+    margin: 10px;
 }
 #myInput {
     text-align: center;
     margin: 4px;
 }
-#myButton {
+.myButton {
     background-color: antiquewhite;
 }
 .title, .enterText {
